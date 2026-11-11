@@ -108,7 +108,7 @@ Reconnaissance techniques were successfully performed against `networkwalks.com`
  
 ## 📎 Evidence
  
-Screenshots and tool output are available in the full report: [`PENETRATION_REPORT.docx`](./PENETRATION_REPORT.docx)
+Screenshots and tool output are available in the full report: [`PENETRATION REPORT.docx`](https://github.com/aleerbaloch/Footprinting-Reconnaissance-and-Network-Discovery/blob/main/PENETRATION%20REPORT.docx)
  
 ---
  
